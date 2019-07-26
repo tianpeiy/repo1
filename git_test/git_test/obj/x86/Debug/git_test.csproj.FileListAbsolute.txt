@@ -1,0 +1,4 @@
+C:\Users\GENE_Li\documents\visual studio 2010\Projects\git_test\git_test\bin\Debug\git_test.exe
+C:\Users\GENE_Li\documents\visual studio 2010\Projects\git_test\git_test\bin\Debug\git_test.pdb
+C:\Users\GENE_Li\documents\visual studio 2010\Projects\git_test\git_test\obj\x86\Debug\git_test.exe
+C:\Users\GENE_Li\documents\visual studio 2010\Projects\git_test\git_test\obj\x86\Debug\git_test.pdb
