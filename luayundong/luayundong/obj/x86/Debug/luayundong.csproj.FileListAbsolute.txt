@@ -1,0 +1,8 @@
+C:\Users\GENE_Li\documents\visual studio 2010\Projects\luayundong\luayundong\bin\Debug\luayundong.exe
+C:\Users\GENE_Li\documents\visual studio 2010\Projects\luayundong\luayundong\bin\Debug\luayundong.pdb
+C:\Users\GENE_Li\documents\visual studio 2010\Projects\luayundong\luayundong\obj\x86\Debug\luayundong.Form1.resources
+C:\Users\GENE_Li\documents\visual studio 2010\Projects\luayundong\luayundong\obj\x86\Debug\luayundong.Properties.Resources.resources
+C:\Users\GENE_Li\documents\visual studio 2010\Projects\luayundong\luayundong\obj\x86\Debug\luayundong.csproj.GenerateResource.Cache
+C:\Users\GENE_Li\documents\visual studio 2010\Projects\luayundong\luayundong\obj\x86\Debug\luayundong.exe
+C:\Users\GENE_Li\documents\visual studio 2010\Projects\luayundong\luayundong\obj\x86\Debug\luayundong.pdb
+C:\Users\GENE_Li\documents\visual studio 2010\Projects\luayundong\luayundong\obj\x86\Debug\luayundong.csprojResolveAssemblyReference.cache
